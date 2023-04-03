@@ -11,5 +11,6 @@ Les données collectées incluent des informations telles que le nom des station
 2) Nettoyer et prétraiter les données pour les rendre plus compréhensibles et exploitables
 3) Exporter les résultats sur Tableau
 
+Durée du projet : 3 jours
 
 Cliquez sur ce lien pour voir le tableau de bord Vélib : https://public.tableau.com/app/profile/oy4372/viz/ProjetVlibjuillet2022/Tableaudebord1
